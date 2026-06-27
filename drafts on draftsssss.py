@@ -58,5 +58,48 @@ database = [
                                                                             "treatments": ["Antibiotics", "Increased water", "Cranberry supplements", "Phenazopyridine", "Heating pad"]
                                                 },
                                                     {
-                                                                "name": "Depression",
-                                                                        "symptoms": ["Persistent sadness", ", "Mindfulness", "Light"]
+                                                               "name": "Depression",
+                                                                       "symptoms": ["Persistent sadness", "Loss of interest", "Sleep changes", "Appetite shift", "Low energy"],
+                                                                               "treatments": ["SSRIs", "CBT Therapy", "Exercise", "Mindfulness", "Light therapy"]
+                                                    },
+                                                        {
+                                                                    "name": "Generalized Anxiety",
+                                                                            "symptoms": ["Excessive worry", "Restlessness", "Irritability", "Muscle tension", "Difficulty focusing"],
+                                                                                    "treatments": ["Benzodiazepines", "SSRIs", "Talk therapy", "Breathing exercises", "Caffeine reduction"]
+                                                        },
+                                                            {
+                                                                        "name": "Appendicitis",
+                                                                                "symptoms": ["Sharp lower-right pain", "Nausea", "Vomiting", "Abdominal swelling", "Low-grade fever"],
+                                                                                        "treatments": ["Appendectomy", "Antibiotics", "IV fluids", "Pain management", "Rest"]
+                                                            },
+                                                                {
+                                                                            "name": "COPD",
+                                                                                    "symptoms": ["Chronic cough", "Shortness of breath", "Wheezing", "Excess mucus", "Cyanosis"],
+                                                                                            "treatments": ["Bronchodilators", "Oxygen therapy", "Smoking cessation", "Pulmonary rehab", "Steroids"]
+                                                                },
+                                                                    {
+                                                                                "name": "Rheumatoid Arthritis",
+                                                                                        "symptoms": ["Swollen joints", "Morning stiffness", "Fatigue", "Fever", "Symmetrical joint pain"],
+                                                                                                "treatments": ["DMARDs", "Biologics", "Steroids", "Physical therapy", "Low-impact exercise"]
+                                                                    },
+                                                                        {
+                                                                                    "name": "Psoriasis",
+                                                                                            "symptoms": ["Red skin patches", "Silvery scales", "Dry/cracked skin", "Itching", "Swollen joints"],
+                                                                                                    "treatments": ["Topical steroids", "Phototherapy", "Biologics", "Moisturizers", "Salicylic acid"]
+                                                                        },
+                                                                            {
+                                                                                        "name": "Sleep Apnea",
+                                                                                                "symptoms": ["Loud snoring", "Gasping during sleep", "Morning headache", "Excessive sleepiness", "Irritability"],
+                                                                                                        "treatments": ["CPAP machine", "Weight loss", "Sleep on side", "Oral appliances", "Surgery"]
+                                                                            },
+                                                                                {
+                                                                                            "name": "Crohns Disease",
+                                                                                                    "symptoms": ["Diarrhea", "Abdominal cramps", "Blood in stool", "Weight loss", "Fever"],
+                                                                                                            "treatments": ["Immunosuppressants", "Biologics", "Low-residue diet", "Anti-inflammatory drugs", "Surgery"]
+                                                                                },
+                                                                                    {
+                                                                                                "name": "Hyperthyroidism",
+                                                                                                        "symptoms": ["Rapid heartbeat", "Weight loss", "Increased appetite", "Tremors", "Sweating"],
+                                                                                                                "treatments": ["Methimazole", "Radioactive iodine", "Beta-blockers", "Thyroidectomy", "Dietary changes"]
+                                                                                    }
+]
